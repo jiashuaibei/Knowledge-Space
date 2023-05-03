@@ -52,5 +52,3 @@ Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可�
 运行结束会在此目录生成 LIST.TXT 文件，里面即是文件名
 
 ![img](./assets/Windows技巧2.png)
-
-说明：此方法学习自 @ https://www.yuque.com/huyuya
