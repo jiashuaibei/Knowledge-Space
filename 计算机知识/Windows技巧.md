@@ -47,7 +47,7 @@ Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可�
 3. 更改后缀名 .txt 为 .bat
 4. 将此 .bat 文件放在想要批量提取文件名的父文件夹中，并且双击运行
 
-![img](./assets/Windows技巧1.png)
+![img](./assets/12345.png)
 
 运行结束会在此目录生成 LIST.TXT 文件，里面即是文件名
 
